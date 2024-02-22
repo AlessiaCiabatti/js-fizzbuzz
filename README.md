@@ -19,3 +19,5 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
 6. calcola i  numeri che sono sia multipli di 3 sia multipli di 5
 
 7. per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”
+
+8. 
